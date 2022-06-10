@@ -20,7 +20,7 @@ jobs:
         uses: docker/login-action@v2
         with:
           username: dudututu324 
-          password: f3bfaebd-fa68-498c-b17c-9ccfc55a0fca
+          password: 2190dc9d-8522-4545-9af7-53ceab47c781
       -
         name: Build and push
         uses: docker/build-push-action@v3
